@@ -16,6 +16,11 @@ This project demonstrates a Symfony 7 application structured around Domain-Drive
 - Symfony CLI _(optional)_
 - Composer _(optional)_
 
+## Architecture
+
+![image](https://github.com/aventez/symfony-cqrs-ddd-boilerplate/assets/38591237/d244ac93-6b97-4605-a779-e7fca5fa3c61)
+Credits: Jacobs Data Solutions
+
 ## Getting started
 
 ### 1. Clone the repository
